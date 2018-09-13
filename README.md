@@ -17,3 +17,5 @@ Jupyter notebooks for using cloud API services provided from Amazon Web Services
 - [Azure Computer Vision OCR](/Azure/ComputerVisionOCR/azure-computer-vision-OCR.ipynb)
 - [Azure Computer Vision OCR (Handwritten)](/Azure/ComputerVisionHandwrittenOCR/azure-computer-vision-handwritten-OCR.ipynb)
 - [Azure Translator](/Azure/TranslatorText/azure-translator-text-v3.ipynb)
+
+---
