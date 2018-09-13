@@ -1,6 +1,7 @@
 # Cloud API Python Notebooks
 Jupyter notebooks for using cloud API services provided from Amazon Web Services, Google Cloud Platform, and Microsoft Azure, implemented in Python.
 
+---
 
 ## Amazon Web Services
 - [AWS Polly](/AWS/AmazonPolly/aws-polly.ipynb)
@@ -8,11 +9,9 @@ Jupyter notebooks for using cloud API services provided from Amazon Web Services
 - [AWS S3](/AWS/AmazonS3/aws-S3-storage.ipynb)
 - [AWS Translate](/AWS/AmazonTranslate/aws-translate-text.ipynb)
 
-
 ## Google Cloud Platform
 - [Google Vision OCR](/GoogleCloud/GoogleVisionOCR/google-vision-OCR.ipynb)
 - [Google Translation](/GoogleCloud/GoogleTranslation/google-translation.ipynb)
-
 
 ## Microsoft Azure
 - [Azure Computer Vision OCR](/Azure/ComputerVisionOCR/azure-computer-vision-OCR.ipynb)
