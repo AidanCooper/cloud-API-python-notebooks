@@ -1,5 +1,5 @@
 # Cloud API Python Notebooks
-Jupyter notebooks for various cloud API services provided from Amazon Web Services, Google Cloud Platform, and Microsoft Azure, implemented in Python.
+Jupyter notebooks for various cognitive computing cloud API services provided from Amazon Web Services, Google Cloud Platform, and Microsoft Azure, implemented in Python.
 
 ---
 
