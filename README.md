@@ -5,9 +5,11 @@ Jupyter notebooks for various cognitive computing cloud API services provided fr
 
 ## Amazon Web Services
 - [AWS Polly](/AWS/AmazonPolly/aws-polly.ipynb)
-- [AWS Rekognition OCR](/AWS/AmazonRekognition/aws-rekognition-OCR.ipynb)
-- [AWS S3](/AWS/AmazonS3/aws-S3-storage.ipynb)
 - [AWS Translate](/AWS/AmazonTranslate/aws-translate-text.ipynb)
+- [AWS Rekognition OCR](/AWS/AmazonRekognition/aws-rekognition-OCR.ipynb)
+- AWS Rekognition Face (TO DO)
+- [AWS S3](/AWS/AmazonS3/aws-S3-storage.ipynb)
+- AWS Transcribe (TO DO)
 
 ## Google Cloud Platform
 - [Google Vision OCR](/GoogleCloud/GoogleVisionOCR/google-vision-OCR.ipynb)
