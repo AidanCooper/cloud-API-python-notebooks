@@ -9,7 +9,7 @@ Jupyter notebooks containing Python implementations for various cognitive comput
 - [AWS Rekognition OCR](/AWS/AmazonRekognition/aws-rekognition-OCR.ipynb)
 - AWS Rekognition Face (TO DO)
 - [AWS S3](/AWS/AmazonS3/aws-S3-storage.ipynb)
-- AWS Transcribe (TO DO)
+- [AWS Transcribe](/AWS/AmazonTranscribe/aws-transcribe.ipynb)
 
 ## Google Cloud Platform
 - [Google Vision OCR](/GoogleCloud/GoogleVisionOCR/google-vision-OCR.ipynb)
