@@ -14,6 +14,7 @@ Jupyter notebooks containing Python implementations for various cognitive comput
 ## Google Cloud Platform
 - [Google Vision OCR](/GoogleCloud/GoogleVisionOCR/google-vision-OCR.ipynb)
 - [Google Translation](/GoogleCloud/GoogleTranslation/google-translation.ipynb)
+- [Google AutoML Vision](https://github.com/AidanCooper/Kaggle/tree/master/PlantSeedlingsClassification) (in Kaggle repository)
 
 ## Microsoft Azure
 - [Azure Computer Vision OCR](/Azure/ComputerVisionOCR/azure-computer-vision-OCR.ipynb)
