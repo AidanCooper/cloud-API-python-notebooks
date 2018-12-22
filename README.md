@@ -7,7 +7,7 @@ Jupyter notebooks containing Python implementations for various cognitive comput
 - [AWS Polly](/AWS/AmazonPolly/aws-polly.ipynb)
 - [AWS Translate](/AWS/AmazonTranslate/aws-translate-text.ipynb)
 - [AWS Rekognition OCR](/AWS/AmazonRekognition/aws-rekognition-OCR.ipynb)
-- AWS Rekognition Face (TO DO)
+- [AWS Rekognition Face](/AWS/AmazonRekognition/aws-rekognition-face.ipynb)
 - [AWS S3](/AWS/AmazonS3/aws-S3-storage.ipynb)
 - [AWS Transcribe](/AWS/AmazonTranscribe/aws-transcribe.ipynb)
 
