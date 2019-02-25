@@ -8,6 +8,7 @@ Jupyter notebooks containing Python implementations for various cognitive comput
 - [AWS Translate](/AWS/AmazonTranslate/aws-translate-text.ipynb)
 - [AWS Rekognition OCR](/AWS/AmazonRekognition/aws-rekognition-OCR.ipynb)
 - [AWS Rekognition Face](/AWS/AmazonRekognition/aws-rekognition-face.ipynb)
+- [AWS Rekognition Face (Celebrity)](/AWS/AmazonRekognition/aws-rekognition-face-celebs.ipynb)
 - [AWS S3](/AWS/AmazonS3/aws-S3-storage.ipynb)
 - [AWS Transcribe](/AWS/AmazonTranscribe/aws-transcribe.ipynb)
 
